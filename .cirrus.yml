@@ -1,4 +1,4 @@
-test_task:
+haba:
   container:
     image: deploymine/mltb
   test_script: cd /usr/src/app && bash start.sh
