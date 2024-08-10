@@ -1,4 +1,4 @@
 test_task:
   container:
     image: deploymine/mltb
-  test_script: echo 'hello world2' && cd /usr/src/app && bash start.sh
+  test_script: echo 'hello world3' && cd /usr/src/app && bash start.sh
